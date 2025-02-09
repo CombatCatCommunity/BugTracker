@@ -1,0 +1,38 @@
+name: Localization Issue
+description: A word or phrase is not translated properly ingame
+labels: localization
+assignees:
+- shawnkurt
+body:
+- type: input
+  id: contact
+  attributes:
+    label: Player Id
+    description: Your ingame user id or steam profile id
+    placeholder: "ex. 100238 or https://steamcommunity.com/id/{THIS PART}/"
+  validations:
+    required: true
+- type: input
+  id: language
+  attributes:
+    label: Your Language
+    description: The language setting you were using
+    placeholder: "ex. Spanish, Russian, Japanese"
+  validations:
+    required: true
+- type: textarea
+  id: info
+  attributes:
+    label: The Mis-Translation
+    description: Tell us where the mis-translated item is, what it actually translates to, and what you think the correct words should be.
+    placeholder: Please include any screenshots if you have them.
+  validations:
+    required: true
+- type: checkboxes
+  id: terms
+  attributes:
+    label: Verify
+    description: Before submitting, have you searched through the [Frequently Asked Questions](https://github.com/orgs/CombatCatCommunity/discussions/categories/faq) and [Existing Issues](https://github.com/CombatCatCommunity/BugTracker/issues) to be sure you are not posting a duplicate issue?
+    options:
+      - label: Yes, I have read through the FAQ and Existing Issues.
+        required: true

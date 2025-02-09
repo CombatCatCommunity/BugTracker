@@ -1,0 +1,52 @@
+name: Bug Report
+description: Something about the game is not working as intended.
+labels: bug
+assignees:
+- shawnkurt
+body:
+- type: input
+  id: contact
+  attributes:
+    label: Player Id
+    description: Your ingame user id or steam profile id
+    placeholder: "ex. 100238 or https://steamcommunity.com/id/{THIS PART}/"
+  validations:
+    required: true
+- type: input
+  id: language
+  attributes:
+    label: Your Language
+    description: The language setting you were using
+    placeholder: "ex. Spanish, Russian, Japanese"
+  validations:
+    required: true
+- type: input
+  id: location
+  attributes:
+    label: Bug Location
+    description: What part of the game were you at when the bug occurred?
+    placeholder:  "ex. Startup, In Menus, Ingame"
+  validations:
+    required: true
+- type: textarea
+  id: info
+  attributes:
+    label: What Happened
+    description: What were you doing when the bug occurred?
+    placeholder: "A clear and concise description of what happened."
+  validations:
+    required: true
+- type: textarea
+  id: proof
+  attributes:
+    label: Proof
+    description: Attach or link to images or video that provide examples of this bug as it happens.
+    placeholder: "Link to youtube, twitch, imgur, or attach images directly."
+- type: checkboxes
+  id: terms
+  attributes:
+    label: Verify
+    description: Before submitting, have you searched through the [Frequently Asked Questions](https://github.com/orgs/CombatCatCommunity/discussions/categories/faq) and [Existing Issues](https://github.com/CombatCatCommunity/BugTracker/issues) to be sure you are not posting a duplicate issue?
+    options:
+      - label: Yes, I have read through the FAQ and Existing Issues.
+        required: true
