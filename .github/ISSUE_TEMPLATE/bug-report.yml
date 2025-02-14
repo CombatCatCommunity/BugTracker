@@ -50,3 +50,4 @@ body:
     options:
       - label: Yes, I have read through the FAQ and Existing Issues.
         required: true
+      - label: (Optional) You can package and send your game log file (located at `%LOCALAPPDATA%\IronDesert\Saved\Logs`) to the email: **CombatCatHelp[at]gmail.com**. Please include your Github Issue ID in the email subject. We will review your log to help address the issue.
