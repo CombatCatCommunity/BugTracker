@@ -45,7 +45,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ### Submit Game Logs
+      #### Submit Game Logs
       Optionally, you can zip your latest game log file located at `%LOCALAPPDATA%\IronDesert\Saved\Logs` and email it to [CombatCatHelp@gmail.com](mailto:CombatCatHelp@gmail.com). 
       If you do, please include this GitHub Issue Id in the email body. The log will be reviewed by the development team to help further address the issue.
 - type: checkboxes
