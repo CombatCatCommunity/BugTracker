@@ -41,7 +41,14 @@ body:
   attributes:
     label: Proof
     description: Attach or link to images or video that provide examples of this bug as it happens.
-    placeholder: "Link to youtube, twitch, imgur, or attach images directly."
+    placeholder: "Link to youtube, twitch, imgur, or attach images directly. Please do not submit game logs here as they may contain sensitive information."
+- type: markdown
+  attributes:
+    value: |
+      Optionally, you can zip your latest game log file located at `%LOCALAPPDATA%\IronDesert\Saved\Logs` 
+      and email it to [CombatCatHelp@gmail.com](mailto:CombatCatHelp@gmail.com). If you do, please include 
+      this GitHub Issue Id in the email body. The log will be reviewed by the development team to help 
+      further address the issue.
 - type: checkboxes
   id: terms
   attributes:
@@ -50,8 +57,3 @@ body:
     options:
       - label: Yes, I have read through the FAQ and Existing Issues.
         required: true
-      - label: >-
-          (Optional) You can package and send your game log file (located at
-          %LOCALAPPDATA%\IronDesert\Saved\Logs) to the email: CombatCatHelp[at]gmail.com.
-          Please include your Github Issue ID in the email subject. We will review
-          your log to help address the issue.
