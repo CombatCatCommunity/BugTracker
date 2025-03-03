@@ -1,0 +1,16 @@
+name: Close Solved
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  check-need-info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: close-issues
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'close-issues'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          labels: 'solved'
