@@ -13,5 +13,5 @@ jobs:
         with:
           actions: 'check-inactive'
           token: ${{ secrets.GITHUB_TOKEN }}
-          inactive-day: 7
+          inactive-day: 3
           inactive-mode: comment
