@@ -22,7 +22,7 @@ Feature requests are not accepted through the public bug tracker. If you have id
 [![Static Badge](https://img.shields.io/badge/BlueSky-wildassault.com-%230285FF?logo=bluesky)](https://bsky.app/profile/wildassault.com)
 [![Static Badge](https://img.shields.io/badge/DeviantArt-CombatCatStudio-%2305CC47?logo=deviantart)](https://www.deviantart.com/combatcatstudio)
 [![Static Badge](https://img.shields.io/badge/Discord-Wild%20Assault-%235865F2?logo=discord)](https://discord.gg/WildAssault)
-[![Static Badge](https://img.shields.io/badge/Facebook-%40WildAssault-%230866FF?logo=facebook)](https://www.facebook.com/WildAssault/)
+[![Static Badge](https://img.shields.io/badge/Facebook-%40WildAssault-%230866FF?logo=facebook&logoColor=0866FF)](https://www.facebook.com/WildAssault/)
 [![Static Badge](https://img.shields.io/badge/Reddit-r%2FWildAssaultOfficial-%23FF4500?logo=reddit)](https://www.reddit.com/r/WildAssaultOfficial/)
 [![Static Badge](https://img.shields.io/badge/Steam-Wild%20Assault-%23000000?logo=steam)](https://bit.ly/wildassault)
 [![Static Badge](https://img.shields.io/badge/TikTok-%40wildassault-%23000000?logo=tiktok)](https://www.tiktok.com/%40wildassault)
