@@ -15,7 +15,7 @@ If it hasn't been reported, please create a new issue using the provided forms. 
 
 # 💡 Tips
 
-- [**How To Submit A Bug Report?**](.github/HELP/HELP.md)
+- [**How To Submit A Bug Report?**](/HELP/HELP.md)
 
 # 💭 Feature Requests
 Feature requests are not accepted through the public bug tracker. If you have ideas for the game you would like the developers to know about please visit our [game suggestions channel in discord](https://canary.discord.com/channels/1209429896317771796/1210163526753194017).
