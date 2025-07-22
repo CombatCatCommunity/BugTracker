@@ -13,16 +13,19 @@ Feature requests are not accepted through the public bug tracker. If you have id
 
 # Follow Wild Assault on Social Media
 
-[![Static Badge](https://img.shields.io/badge/Bilibili:%20%E5%85%BD%E7%8C%8E%E7%AA%81%E8%A2%AD-%23FFFFFF?logo=bilibili&style=social)](https://space.bilibili.com/389117626)
-[![Static Badge](https://img.shields.io/badge/BlueSky:%20wildassault.com-%23FFFFFF?logo=bluesky&style=social)](https://bsky.app/profile/wildassault.com)
-[![Static Badge](https://img.shields.io/badge/DeviantArt:%20CombatCatStudio-%23FFFFFF?logo=deviantart&style=social)](https://www.deviantart.com/combatcatstudio)
-[![Static Badge](https://img.shields.io/badge/Discord:%20Wild%20Assault-%23FFFFFF?logo=discord&style=social)](https://discord.gg/WildAssault)
-[![Static Badge](https://img.shields.io/badge/Facebook:%20%40WildAssault-%23FFFFFF?logo=facebook&style=social)](https://www.facebook.com/WildAssault/)
-[![Static Badge](https://img.shields.io/badge/Reddit:%20r%2FWildAssaultOfficial-%23FFFFFF?logo=reddit&style=social)](https://www.reddit.com/r/WildAssaultOfficial/)
-[![Static Badge](https://img.shields.io/badge/Steam:%20Wild%20Assault-%23FFFFFF?logo=steam&style=social)](https://bit.ly/wildassault)
-[![Static Badge](https://img.shields.io/badge/TikTok:%20%40wildassault-%23FFFFFF?logo=tiktok&style=social)](https://www.tiktok.com/%40wildassault)
-[![Static Badge](https://img.shields.io/badge/X(Twitter):%20%40WildAssaultGame-%23FFFFFF?logo=x&style=social)](https://x.com/WildAssaultGame)
-[![Static Badge](https://img.shields.io/badge/YouTube:%20%40WildAssault-%23FFFFFF?logo=youtube&style=social)](https://www.youtube.com/@WildAssault)
+[![Static Badge](https://img.shields.io/badge/Bilibili-%E5%85%BD%E7%8C%8E%E7%AA%81%E8%A2%AD-%2300A1D6?logo=bilibili)](https://space.bilibili.com/389117626)
+[![Static Badge](https://img.shields.io/badge/BlueSky-wildassault.com-%230285FF?logo=bluesky)](https://bsky.app/profile/wildassault.com)
+[![Static Badge](https://img.shields.io/badge/DeviantArt-CombatCatStudio-%2305CC47?logo=deviantart)](https://www.deviantart.com/combatcatstudio)
+[![Static Badge](https://img.shields.io/badge/Discord-Wild%20Assault-%235865F2?logo=discord)](https://discord.gg/WildAssault)
+[![Static Badge](https://img.shields.io/badge/Facebook-%40WildAssault-%230866FF?logo=facebook)](https://www.facebook.com/WildAssault/)
+[![Static Badge](https://img.shields.io/badge/Reddit-r%2FWildAssaultOfficial-%23FF4500?logo=reddit)](https://www.reddit.com/r/WildAssaultOfficial/)
+[![Static Badge](https://img.shields.io/badge/Steam-Wild%20Assault-%23000000?logo=steam)](https://bit.ly/wildassault)
+[![Static Badge](https://img.shields.io/badge/TikTok-%40wildassault-%23000000?logo=tiktok)](https://www.tiktok.com/%40wildassault)
+[![Static Badge](https://img.shields.io/badge/X(Twitter)-%40WildAssaultGame-%23000000?logo=x)](https://x.com/WildAssaultGame)
+[![Static Badge](https://img.shields.io/badge/YouTube-%40WildAssault-%23FF0000?logo=youtube)](https://www.youtube.com/@WildAssault)
+
+
+
 
 
 
