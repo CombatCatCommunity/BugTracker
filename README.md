@@ -1,5 +1,5 @@
 # Wild Assault Community Bug Tracker
-Welcome to the Wild Assault Community Bug Tracker!
+Welcome to the Wild Assault Community Bug Tracker!  
 Please use this repository to report bugs and other technical issues in Wild Assault.
 
 # Current Status
