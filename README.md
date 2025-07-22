@@ -7,7 +7,7 @@ Please use this repository to report bugs and other technical issues in Wild Ass
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/CombatCatCommunity/BugTracker?logo=github&label=Closed%20Issues&color=15C261)
 
 # Reporting Issues
-If you encounter a bug while playing Wild Assault, please first check the [existing issue list](https://github.com/CombatCatCommunity/BugTracker/issues) to see if it has already been reporting. Make sure to include closed issues in your search.
+If you encounter a bug while playing Wild Assault, **please first check the [existing issue list](https://github.com/CombatCatCommunity/BugTracker/issues) to see if it has already been reporting. Make sure to include closed issues in your search.**
 
 If it has already been reported, but has no fix has been posted, feel free to add any details you think may be helpful in reaching a resolution.
 
