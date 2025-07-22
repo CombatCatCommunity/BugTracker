@@ -1,5 +1,10 @@
-# Bug Tracker
+# Wild Assault Community Bug Tracker
+Welcome to the Wild Assault Community Bug Tracker!
 Please use this repository to report bugs and other technical issues in Wild Assault.
+
+# Current Status
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/CombatCatCommunity/BugTracker?logo=github&label=Opening%20Issues)  
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/CombatCatCommunity/BugTracker?logo=github&label=Closed%20Issues&color=15C261)
 
 # Reporting Issues
 If you encounter a bug while playing Wild Assault, please first check the [existing issue list](https://github.com/CombatCatCommunity/BugTracker/issues) to see if it has already been reporting. Make sure to include closed issues in your search.
@@ -23,14 +28,3 @@ Feature requests are not accepted through the public bug tracker. If you have id
 [![Static Badge](https://img.shields.io/badge/TikTok-%40wildassault-%23000000?logo=tiktok)](https://www.tiktok.com/%40wildassault)
 [![Static Badge](https://img.shields.io/badge/X(Twitter)-%40WildAssaultGame-%23000000?logo=x)](https://x.com/WildAssaultGame)
 [![Static Badge](https://img.shields.io/badge/YouTube-%40WildAssault-%23FF0000?logo=youtube)](https://www.youtube.com/@WildAssault)
-
-
-
-
-
-
-
-
-
-
-
