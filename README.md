@@ -42,3 +42,7 @@ Feature requests are not accepted through the public bug tracker. If you have id
 [![Static Badge](https://img.shields.io/badge/TikTok-%40wildassault-%23000000?logo=tiktok)](https://www.tiktok.com/%40wildassault)
 [![Static Badge](https://img.shields.io/badge/X(Twitter)-%40WildAssaultGame-%23000000?logo=x)](https://x.com/WildAssaultGame)
 [![Static Badge](https://img.shields.io/badge/YouTube-%40WildAssault-%23FF0000?logo=youtube&logoColor=FF0000)](https://www.youtube.com/@WildAssault)
+
+<br>
+
+### Thank you for submitting issues here and for co-creating Wild Assault with us! 🍻
