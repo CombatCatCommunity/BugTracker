@@ -2,7 +2,7 @@ name: Localization Issue
 description: A word or phrase is not translated properly ingame
 labels: localization
 assignees:
-- shawnkurt
+- WildAssault-Leo
 body:
 - type: input
   id: contact
