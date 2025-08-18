@@ -3,9 +3,6 @@ contact_links:
   - name: Frequently Asked Questions
     url: https://github.com/orgs/CombatCatCommunity/discussions/categories/faq
     about: Check to see if your question is already answered in the FAQ.
-  - name: Support Tickets
-    url: https://canary.discord.com/channels/1209429896317771796/1237181636446257263
-    about: Please submit reports with personal information via Discord tickets.
   - name: Discord Community
     url: https://discord.gg/WildAssault
     about: Some simple questions can also be answered by our community in Discord.
