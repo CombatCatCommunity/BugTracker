@@ -2,7 +2,7 @@ name: Bug Report
 description: Something about the game is not working as intended.
 labels: bug
 assignees:
-- shawnkurt
+- WildAssault-Leo
 body:
 - type: input
   id: contact
